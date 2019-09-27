@@ -1,0 +1,1301 @@
+{
+    "1": {
+        "title": "Customer Satisfaction",
+        "description": "The general purpose of customer satisfaction surveys is to assess how satisfied your customers are with different aspects of your product/service. Identifying unhappy customers is as important as identifying extremely happy ones (potential advocates).Having (and maintaining) happy customers improves the odds of repeat purchases as well as raises your general customer lifetime value.Unhappy customers, on the other hand, can be a lot more harmful than you think. Ask them to rate their satisfaction with a specific aspect on a 1 to 10 scale.Using scales to measure customer satisfaction makes it a lot more practical to measure changes in satisfaction over time. That’s even more important when trying to measure the impact of a specific initiative.Measuring and tracking your overall customer satisfaction is the first and most important step towards creating amazing experiences. Keep that in mind, always, and you’ll be on the right path towards developing an awesome product/service.",
+        "survey": [
+            {
+                "question": "How likely is it that you would recommend this company to a friend or colleague?",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "Very likely",
+                        "Somewhat likey",
+                        "Dont know",
+                        "Not likely",
+                        "Not likely at all"
+                    ]
+                }
+            },
+            {
+                "question": "Overall, how satisfied or dissatisfied are you with the company?",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "Very satisfied",
+                        "Somewhat satisfied",
+                        "Neither satisfied nor dissatisfied",
+                        "Somewhat dissatisfied",
+                        "very dissatisfied"
+                    ]
+                }
+            },
+            {
+                "question": "Which of the following words would you use to describe our products? Select all that apply.",
+                "optionType": "multipleSelect",
+                "options": {
+                    "options": [
+                        {
+                            "label": "Reliable"
+                        },
+                        {
+                            "label": "Overpriced"
+                        },
+                        {
+                            "label": "Useful"
+                        },
+                        {
+                            "label": "Impracticle"
+                        },
+                        {
+                            "label": "Ineffective"
+                        },
+                        {
+                            "label": "Unique"
+                        }
+                    ]
+                }
+            },
+            {
+                "question": "How well do our products meet your needs?",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "Very well",
+                        "Somewhat well",
+                        "Dont know",
+                        "Not well",
+                        "Not well at all"
+                    ]
+                }
+            },
+            {
+                "question": "How would you rate the quality of the product?",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "Very high quality",
+                        "High Quality",
+                        "Neither high nor low quality",
+                        "Low quality",
+                        "Very low quality"
+                    ]
+                }
+            },
+            {
+                "question": "How would you rate the value for money of the product?",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "Excellent",
+                        "Above average",
+                        "Average",
+                        "Below average",
+                        "Poor"
+                    ]
+                }
+            },
+            {
+                "question": "How responsive have we been to your questions or concerns about our products?",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "Extremely responsive",
+                        "Very responsive",
+                        "Somewhat responsive",
+                        "Not so responsive",
+                        "Not at all responsive",
+                        "Not applicable"
+                    ]
+                }
+            },
+            {
+                "question": "How long have you been a customer of our company?",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "This is my first purchase",
+                        "Less than six months",
+                        "Six months to a year",
+                        "1 - 2 years",
+                        "3 or more years",
+                        "I haven't made a purchase yet"
+                    ]
+                }
+            },
+            {
+                "question": "How likely are you to purchase any of our products again?",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "Extremely likely",
+                        "Very likely",
+                        "Somewhat likely",
+                        "Not so likely",
+                        "Not at all likely"
+                    ]
+                }
+            },
+            {
+                "question": "Do you have any other comments, questions, or concerns?",
+                "optionType": "text",
+                "option": null,
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": false
+            }
+        ]
+    },
+    "2": {
+        "title": "Employee Engagement",
+        "description": "An Employee Engagement Survey measures the degree to which employees feel valued at your company. Tracking employee engagement is important in determining whether or not your employees are happy and how long they’ll stay with your company.The questions in an engagement survey are directed towards an organization’s employees to understand their level of engagement with the organization at large, because happy customers are the result of happy employees. Engaged employees will help you get more customers while your disengaged employees will cost you customers: this is the main reason why all world-class winning companies value their work culture.",
+        "survey": [
+            {
+                "question": "What is your job role?",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "Individual Contributor",
+                        "Team Lead",
+                        "Manager",
+                        "Senior Manager",
+                        "Regional Manager",
+                        "Vice President",
+                        "Management / C-Level",
+                        "Partner",
+                        "Owner",
+                        "Volunteer",
+                        "Intern",
+                        "Other"
+                    ]
+                }
+            },
+            {
+                "question": "What department do you work in?",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "Sales",
+                        "Export",
+                        "IT",
+                        "Marketing",
+                        "Financial",
+                        "Human Resources",
+                        "Buying",
+                        "R&D",
+                        "Quality",
+                        "Administration",
+                        "Production",
+                        "Logistics",
+                        "PR",
+                        "Security"
+                    ]
+                }
+            },
+            {
+                "question": "I am satisfied with my opportunities for professional growth.",
+                "optionType": "multiplechoice",
+                "options": {
+                    "options": [
+                        "Strongly Disagree",
+                        "Disagree",
+                        "Neutral/Neither agree nor disagree",
+                        "Agree",
+                        "Strongly Agree"
+                    ]
+                }
+            },
+            {
+                "question": "I am pleased with the career advancement opportunities available to me.",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "Strongly Disagree",
+                        "Disagree",
+                        "Neutral/Neither agree nor disagree",
+                        "Agree",
+                        "Strongly Agree"
+                    ]
+                }
+            },
+            {
+                "question": "My organization is dedicated to my professional development.",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "Strongly Disagree",
+                        "Disagree",
+                        "Neutral/Neither agree nor disagree",
+                        "Agree",
+                        "Strongly Agree"
+                    ]
+                }
+            },
+            {
+                "question": "I am satisfied with the job-related training my organization offers.",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "Strongly Disagree",
+                        " Disagree",
+                        "Neutral/Neither agree nor disagree",
+                        "Agree",
+                        "Strongly Agree"
+                    ]
+                }
+            },
+            {
+                "question": "I am satisfied that I have the opportunities to apply my talents and expertise.",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "Strongly Disagree",
+                        "Disagree",
+                        "Neutral/Neither agree nor disagree",
+                        "Agree",
+                        "Strongly Agree"
+                    ]
+                }
+            },
+            {
+                "question": "I am satisfied with the investment my organization makes in training and education.",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "Strongly Disagree",
+                        "Disagree",
+                        "Neutral/Neither agree nor disagree",
+                        "Agree",
+                        "Strongly Agree"
+                    ]
+                }
+            },
+            {
+                "question": "I am inspired to meet my goals at work.",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "Strongly Disagree",
+                        "Disagree",
+                        "Neutral/Neither agree nor disagree",
+                        "Agree",
+                        "Strongly Agree"
+                    ]
+                }
+            },
+            {
+                "question": "Do you have any other comments, questions, or concerns?",
+                "optionType": "text",
+                "option": null,
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": false
+            },
+            {
+                "question": "I am compensated fairly relative to my local market.",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "Strongly Disagree",
+                        "Disagree",
+                        "Neutral/Neither agree nor disagree",
+                        "Agree",
+                        "Strongly Agree"
+                    ]
+                }
+            }
+        ]
+    },
+    "3": {
+        "title": "Market Research - Product Testing",
+        "description": "A concept testing survey enables you to test an idea or concept before introducing a product or service into the market. For a product or service to be successful in your target market, it is important to understand whether it will be well-accepted by your clientele or not.",
+        "survey": [
+            {
+                "question": "What is your first reaction to the product?",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "Very positive",
+                        "Somewhat positive",
+                        "Neutral",
+                        "Somewhat negative",
+                        "Very negative"
+                    ]
+                }
+            },
+            {
+                "question": "How would you rate the quality of the product?",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "Very high quality",
+                        "High Quality",
+                        "Neither high nor low quality",
+                        "Low quality",
+                        "Very low quality"
+                    ]
+                }
+            },
+            {
+                "question": "How innovative is the product?",
+                "optionType": "multiplchoice",
+                "options": {
+                    "options": [
+                        "Extremely innovative",
+                        "Very innovative",
+                        "Somewhat innovative",
+                        "Not so innovative",
+                        "Not at all innovative"
+                    ]
+                }
+            },
+            {
+                "question": "When you think about the product, do you think of it as something you need or don’t need?",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "Definitely need",
+                        "Probably need",
+                        "Neutral",
+                        "Probably don’t need",
+                        "Definitely don’t need"
+                    ]
+                }
+            },
+            {
+                "question": "How would you rate the value for money of the product?",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "Excellent",
+                        "Above average",
+                        "Average",
+                        "Below average",
+                        "Poor"
+                    ]
+                }
+            },
+            {
+                "question": "If the product were available today, how likely would you be to buy the product?",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "Extremely likely",
+                        "Very likely",
+                        "Somewhat likely",
+                        "Not so likely",
+                        "Not at all likely"
+                    ]
+                }
+            },
+            {
+                "question": "How likely are you to replace your current product with the product?",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "Extremely likely",
+                        "Very likely",
+                        "Somewhat likely",
+                        "Not so likely",
+                        "Not at all likely"
+                    ]
+                }
+            },
+            {
+                "question": "How likely is it that you would recommend our new product to a friend or colleague?",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "Extremely likely",
+                        "Very likely",
+                        "Somewhat likely",
+                        "Not so likely",
+                        "Not at all likely"
+                    ]
+                }
+            },
+            {
+                "question": "In your own words, what are the things that you would most like to improve in this new product?",
+                "optionType": "text",
+                "option": null,
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": false
+            },
+            {
+                "question": "In your own words, what are the things that you like most about this new product?",
+                "optionType": "text",
+                "option": null,
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": false
+            }
+        ]
+    },
+    "4": {
+        "title": "Net Promoter® Score",
+        "description": "The Net Promoter Score is an index ranging from -100 to 100 that measures the willingness of customers to recommend a company’s products or services to others. It is used as a proxy for gauging the customer’s overall satisfaction with a company’s product or service and the customer’s loyalty to the brand.",
+        "survey": [
+            {
+                "question": "How likely is it that you would recommend this company to a friend or colleague?",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "Very likely",
+                        "Somewhat likey",
+                        "Dont know",
+                        "Not likely",
+                        "Not likely at all"
+                    ]
+                }
+            },
+            {
+                "question": "What does this company do really well?",
+                "optionType": "text",
+                "option": null,
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true
+            },
+            {
+                "question": "What is your gender?",
+                "optionType": "multiplechoice",
+                "options": {
+                    "options": [
+                        "Male",
+                        "Female"
+                    ]
+                }
+            },
+            {
+                "question": "What is your age?",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "18 to 24",
+                        "25 to 34",
+                        "35 to 44",
+                        "45 to 54",
+                        "55 to 64",
+                        "65 to 74",
+                        "75 or older"
+                    ]
+                }
+            },
+            {
+                "question": "What is your approximate average household income?",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "$0-$24,999",
+                        "$25,000-$49,999",
+                        "$50,000-$74,999",
+                        "$75,000-$99,999",
+                        "$100,000-$124,999",
+                        "$125,000-$149,999",
+                        "$150,000-$174,999",
+                        "$175,000-$199,999",
+                        "$200,000 and up"
+                    ]
+                }
+            },
+            {
+                "question": " In what country do you currently reside?",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "USA",
+                        "Other"
+                    ]
+                }
+            }
+        ]
+    },
+    "5": {
+        "title": "Software and App Customer Feedback",
+        "description": "Customer feedback is information provided by clients about whether they are satisfied or dissatisfied with a product or service and about general experience they had with a company. Their opinion is a resource for improving customer experience and adjusting your actions to their needs.For software and apps this is specially important since you need to be aware of what your users like and what the dont to retain their intrest",
+        "survey": [
+            {
+                "question": "How likely is it that you would recommend this software to a friend or family member?",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "Very likely",
+                        "Somewhat likey",
+                        "Dont know",
+                        "Not likely",
+                        "Not likely at all"
+                    ]
+                }
+            },
+            {
+                "question": "How satisfied are you with the reliability of this software?",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "Very satisfied",
+                        "Somewhat satisfied",
+                        "Neither satisfied nor dissatisfied",
+                        "Somewhat dissatisfied",
+                        "very dissatisfied"
+                    ]
+                }
+            },
+            {
+                "question": "How satisfied are you with the security of this software?",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "Very satisfied",
+                        "Somewhat satisfied",
+                        "Neither satisfied nor dissatisfied",
+                        "Somewhat dissatisfied",
+                        "very dissatisfied"
+                    ]
+                }
+            },
+            {
+                "question": "How satisfied are you with the ability to integrate other software with this software?",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "Very satisfied",
+                        "Somewhat satisfied",
+                        "Neither satisfied nor dissatisfied",
+                        "Somewhat dissatisfied",
+                        "very dissatisfied"
+                    ]
+                }
+            },
+            {
+                "question": "How satisfied are you with the look and feel of this software?",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "Very satisfied",
+                        "Somewhat satisfied",
+                        "Neither satisfied nor dissatisfied",
+                        "Somewhat dissatisfied",
+                        "very dissatisfied"
+                    ]
+                }
+            },
+            {
+                "question": "Do you have any thoughts on how to improve this software?",
+                "optionType": "text",
+                "option": null,
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": false
+            }
+        ]
+    },
+    "6": {
+        "title": "University Instructor Evaluation",
+        "description": "This survey is an opportunity for you to evaluate your instructor. The information you provide will be given to the instructor after grades have been reported and will be used to improve classroom performance.",
+        "survey": [
+            {
+                "question": "How likely is it that you would recommend your instructor to another student?",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "Very likely",
+                        "Somewhat likey",
+                        "Dont know",
+                        "Not likely",
+                        "Not likely at all"
+                    ]
+                }
+            },
+            {
+                "question": "How knowledgeable was your instructor?",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "Extremely knowledgeable",
+                        "Very knowledgeable",
+                        "Somewhat knowledgeable",
+                        "Not so knowledgeable",
+                        "Not at all knowledgeable"
+                    ]
+                }
+            },
+            {
+                "question": " How clearly did your instructor explain the course material?",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "Extremely clearly",
+                        "Very clearly",
+                        "Somewhat clearly",
+                        "Not so clearly",
+                        "Not at all clearly"
+                    ]
+                }
+            },
+            {
+                "question": "How concerned was your instructor that students were learning the material?",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "Very concerned",
+                        "Somewhat concerned",
+                        "Not concerned",
+                        "Not at all concerned"
+                    ]
+                }
+            },
+            {
+                "question": "How organized for class was your instructor?",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "Very organized",
+                        "Somewhat organized",
+                        "Not organized",
+                        "Not at all organized"
+                    ]
+                }
+            },
+            {
+                "question": "How well did your instructor answer students’ questions?",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "Very well",
+                        "Somewhat well",
+                        "Not well",
+                        "Not well at all"
+                    ]
+                }
+            },
+            {
+                "question": "Was the speed with which your instructor presented the course material too fast, too slow, or about right?",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "Much too fast",
+                        "Too fast",
+                        "The right amount",
+                        " Too slow",
+                        " Much too slow"
+                    ]
+                }
+            },
+            {
+                "question": "How helpful were the homework assignments to your understanding of the material?",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "Extremely helpful",
+                        "Very helpful",
+                        "Somewhat helpful",
+                        "Not so helpful",
+                        "Not at all helpful"
+                    ]
+                }
+            },
+            {
+                "question": "How easy or difficult was it to get in contact with your instructor outside of class?",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "Very easy",
+                        "Easy",
+                        "Neither easy nor difficult",
+                        "Difficult",
+                        "Very difficult",
+                        "Not applicable (I did not attempt to get in contact with this instructor outside of class)"
+                    ]
+                }
+            },
+            {
+                "question": "Any areas where your instructor did particularly well? Any areas of improvement for your instructor?",
+                "optionType": "text",
+                "option": null,
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": false
+            }
+        ]
+    },
+    "7": {
+        "title": "Website Feedback",
+        "description": "Website feedback surveys are an online marketing technique for collecting qualitative data from visitors or customers. They are delivered to users directly on the website and they pose a series of questions related to a specific topic that visitors should provide answers to. The data collected by the surveys is then interpreted with the aim of improving the product, service or user experience. Feedback surveys are one of the best ways to find out what customers like or dislike about a website, product or service. There are other indirect methods of finding out what visitors prefer such as heat maps, click maps or session recordings but their interpretation is subject to an increased degree of subjectivity from the marketers overseeing the project.",
+        "survey": [
+            {
+                "question": "Overall, how well does our website meet your needs?",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "Very well",
+                        "Somewhat well",
+                        "Dont know",
+                        "Not well",
+                        "Not well at all"
+                    ]
+                }
+            },
+            {
+                "question": "How easy was it to find what you were looking for on our website?",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "Very easy",
+                        "Easy",
+                        "Neither easy nor difficult",
+                        "Difficult",
+                        "Very difficult"
+                    ]
+                }
+            },
+            {
+                "question": "Did it take you more or less time than you expected to find what you were looking for on our website?",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "A lot less time",
+                        "A little less time",
+                        "About what I expected",
+                        "A little more time",
+                        "A lot more time"
+                    ]
+                }
+            },
+            {
+                "question": "How visually appealing is our website?",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "Extremely appealing",
+                        "Very appealing",
+                        "Somewhat appealing",
+                        "Not so appealing",
+                        "Not at all appealing"
+                    ]
+                }
+            },
+            {
+                "question": "How easy is it to understand the information on our website?",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "Very easy",
+                        "Easy",
+                        "Neither easy nor difficult",
+                        "Difficult",
+                        "Very difficult"
+                    ]
+                }
+            },
+            {
+                "question": "How much do you trust the information on our website?",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "A great deal",
+                        "A lot",
+                        "A moderate amount",
+                        "A little",
+                        "Not at all"
+                    ]
+                }
+            },
+            {
+                "question": "How likely is it that you would recommend this website to a friend or colleague?",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "Very likely",
+                        "Somewhat likey",
+                        "Dont know",
+                        "Not likely",
+                        "Not likely at all"
+                    ]
+                }
+            },
+            {
+                "question": "Do you have any other comments about how we can improve our website?",
+                "optionType": "text",
+                "option": null,
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": false
+            }
+        ]
+    },
+    "8": {
+        "title": "Event Feedback",
+        "description": "Event feedback survey questions are survey questions asked after an event has concluded to the attendees to understand their opinions about the event. Every attendee has a unique experience during the event because of which it is important to understand each individual’s opinion. These survey questions can be asked for public events, training courses, conferences, conclaves, exhibitions, and webinars. Using these survey questions the researcher can collect objective and actionable feedback that can be used to host much better events in the future and provide satisfaction to its attendees.",
+        "survey": [
+            {
+                "question": "How likely is it that you would recommend the event to a friend or colleague?",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "Very likely",
+                        "Somewhat likey",
+                        "Dont know",
+                        "Not likely",
+                        "Not likely at all"
+                    ]
+                }
+            },
+            {
+                "question": "Overall, how would you rate the event?",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "Excellent",
+                        "Above average",
+                        "Average",
+                        "Below average",
+                        "Poor"
+                    ]
+                }
+            },
+            {
+                "question": "How organized was the event?",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "Very organized",
+                        "Somewhat organized",
+                        "Not organized",
+                        "Not at all organized"
+                    ]
+                }
+            },
+            {
+                "question": "How friendly was the staff?",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "Extremely friendly",
+                        "Very friendly",
+                        "Somewhat friendly",
+                        "Not so friendly",
+                        "Not at all friendly"
+                    ]
+                }
+            },
+            {
+                "question": "How helpful was the staff?",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "Extremely helpful",
+                        "Very helpful",
+                        "Somewhat helpful",
+                        "Not so helpful",
+                        "Not at all helpful"
+                    ]
+                }
+            },
+            {
+                "question": "Prior to the event, how much of the information that you needed did you get?",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "All of the information",
+                        "Most of the information",
+                        "Some of the information",
+                        "A little of the information",
+                        "None of the information"
+                    ]
+                }
+            },
+            {
+                "question": "Was the event length too long too short or about right?",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "Much too long",
+                        "Too long",
+                        "About right",
+                        "Too short",
+                        "Much too short"
+                    ]
+                }
+            },
+            {
+                "question": "Is there anything else you’d like to share about the event?",
+                "optionType": "text",
+                "option": null,
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": false
+            }
+        ]
+    },
+    "9": {
+        "title": "Meeting Feedback",
+        "description": "Our online meeting feedback survey form asks for candid responses about the meeting recently attended. Just how productive did attendees feel the meeting was? Exactly why do they feel that way? Were the meeting objectives clearly communicated in advance? Were they met? Were follow-up actions decided on and assigned? How well was the meeting moderated? You can also find out if attendees feel they had the opportunity to participate in the meeting--and if all the right people were invited to attend. Our meeting feedback questionnaire even gives attendees an opportunity to assess the meeting logistics, timeliness, and overall effectiveness of the meeting. Taking time to find out how attendees feel about a meeting afterwards can help you plan more focused and effective meetings for the next time!",
+        "survey": [
+            {
+                "question": "Overall, how productive do you think the meeting was?",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "Very productive",
+                        "Somewhat productive",
+                        "Neither productive nor unproductive",
+                        "Somewhat unproductive",
+                        "Very unproductive"
+                    ]
+                }
+            },
+            {
+                "question": "How comfortable did you feel sharing your opinions in the meeting?",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "Very comfortable",
+                        "Somewhat comfortable ",
+                        "Neither comfortable nor uncomfortable",
+                        "Somewhat uncomfortable",
+                        "Very uncomfortable"
+                    ]
+                }
+            },
+            {
+                "question": "Please share with us why you feel that way about how productive the meeting was.",
+                "optionType": "text",
+                "option": null,
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": false
+            },
+            {
+                "question": "Please share with us why you feel that way about sharing your opinions during the meeting.",
+                "optionType": "text",
+                "option": null,
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": false
+            },
+            {
+                "question": "Do you have any additional feedback for the organizer or speaker of the meeting?",
+                "optionType": "text",
+                "option": null,
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": false
+            }
+        ]
+    },
+    "10": {
+        "title": "Volunteer Feedback",
+        "description": "Volunteer activities are just like any other event: You won’t know what people liked (or didn’t like) unless you ask them. When you have a list of people who just devoted their time to your cause, the experience is fresh in their minds, and they’re bound to have opinions about it. This is what makes the volunteer satisfaction survey such a powerful tool. By surveying volunteers shortly after their service, you can gain firsthand insights and then use that feedback to improve the experience and boost volunteer registration in the future.",
+        "survey": [
+            {
+                "question": "How much of an impact do you feel your volunteer work had?",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "A great deal of impact",
+                        "A lot of impact",
+                        "A moderate amount of impact",
+                        "A little impact",
+                        "No impact at all"
+                    ]
+                }
+            },
+            {
+                "question": "How convenient were the volunteer training sessions at our organization?",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "Extremely convenient",
+                        "Very convenient",
+                        "Somewhat convenient",
+                        "Not so convenient",
+                        "Not at all convenient"
+                    ]
+                }
+            },
+            {
+                "question": "How useful were the volunteer training sessions at our organization?",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "Very useful",
+                        "Somewhat useful",
+                        "Not useful",
+                        "Not at all useful"
+                    ]
+                }
+            },
+            {
+                "question": "How easy was it to get along with the other volunteers at this organization?",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "Extremely easy",
+                        "Very easy",
+                        "Somewhat easy",
+                        "Not so easy",
+                        "Not at all easy"
+                    ]
+                }
+            },
+            {
+                "question": "How friendly are the staff at our organization?",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "Extremely friendly",
+                        "Very friendly",
+                        "Somewhat friendly",
+                        "Not so friendly",
+                        "Not at all friendly"
+                    ]
+                }
+            },
+            {
+                "question": "How appreciated did your volunteer supervisor make you feel?",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "Extremely appreciated",
+                        "Very appreciated",
+                        "Somewhat appreciated",
+                        "Not so appreciated",
+                        "Not at all appreciated"
+                    ]
+                }
+            },
+            {
+                "question": "Overall, were you satisfied or dissatisfied with your volunteer experience with our organization?",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "Very satisfied",
+                        "Somewhat satisfied",
+                        "Neither satisfied nor dissatisfied",
+                        "Somewhat dissatisfied",
+                        "very dissatisfied"
+                    ]
+                }
+            },
+            {
+                "question": " How likely are you to continue volunteering at our organization in the future?",
+                "optionType": "multiplechoice",
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": true,
+                "options": {
+                    "options": [
+                        "Very likely",
+                        "Somewhat likey",
+                        "Dont know",
+                        "Not likely",
+                        "Not likely at all"
+                    ]
+                }
+            },
+            {
+                "question": "In a typical month, about how many hours do you volunteer?",
+                "optionType": "text",
+                "option": null,
+                "questionAttachment": null,
+                "questionAttachmentType": null,
+                "questionMandatory": false
+            }
+        ]
+    }
+}
